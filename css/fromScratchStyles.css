@@ -1,0 +1,88 @@
+/* Resetting default margin and padding */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Setting font family */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Styling header */
+header {
+    background-color: rgb(223, 202, 205); 
+    padding: 20px;
+    text-align: center;
+}
+
+/* Styling navigation */
+nav {
+    background-color: #5eaaa8; 
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff; 
+}
+
+/* Styling main */
+main {
+    padding: 20px;
+    background-color: rgb(211, 205, 196);
+}
+
+/* Styling sections */
+section {
+    margin-bottom: 30px;
+}
+
+section h2 {
+    color: #5eaaa8; 
+    text-decoration: underline; /* Underline headings */
+}
+
+/* Styling footer */
+footer {
+    background-color: #f3cbbb; 
+    padding: 20px;
+    text-align: center;
+}
+
+
+.div1 {
+    background-color: #f0f0f0; 
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.div2 {
+    background-color: #ffcc00; 
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.div3 {
+    background-color: #5eaaa8; 
+    color: #fff; 
+    padding: 20px;
+}
+
+ol ul {
+    padding-left: 20px; /* Add left padding */
+}
+
+.common {
+    text-align: center;
+}

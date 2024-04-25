@@ -1,0 +1,95 @@
+/* Resetting default margin and padding */
+body, h1, h2, h3, p, ul, ol {
+    margin: 0;
+    padding: 0;
+}
+
+/* Setting font family and size */
+body {
+    font-family: 'Times New Roman', Times, serif
+    
+}
+
+/* Centering text */
+.center {
+    text-align: center;
+}
+
+/* Styling navigation */
+nav {
+    background-color: #f4f4f4;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: #000; /* Change color to black */
+    padding: 0 10px;
+}
+
+/* Styling sections */
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    margin-bottom: 10px;
+    text-decoration: underline; /* Underline headings */
+}
+
+
+/* Styling header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin-bottom: 5px;
+}
+
+header p {
+    font-style: italic;
+}
+
+/* Styling navigation */
+nav {
+    background-color: #f4f4f4;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    padding: 0 10px;
+}
+
+/* Styling mainbody */
+.mainbody {
+    padding: 20px;
+}
+
+/* Styling sections */
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    margin-bottom: 10px;
+}
+
+section p {
+    margin-bottom: 5px;
+}
+
+/* Styling footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
